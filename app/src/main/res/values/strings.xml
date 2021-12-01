@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyHealth</string>
+
+    <string name="error_input_empty">Los campos no deben estar vacíos</string>
+    <string name="error_not_a_valid_email">Por favor ingresa un E-Mail valido</string>
+    <string name="error_incorrectly_repeated_password">La contraseña no coincide</string>
+    <string name="error_invalid_credentials">El correo o contraseña es incorrecto</string>
+    <string name="success_registration">Nuevo usuario registrado correctamente</string>
+    <string name="error_unknown">Ocurrió un error desconocido </string>
+
+    <string name="pregunta_uno">¿Realiza ejercicio habitualmente?</string>
+    <string name="pregunta_dos">¿Come a diario frutas o verduras?</string>
+    <string name="pregunta_tres">¿Toma medicación para la hipertensión regularmente?</string>
+    <string name="pregunta_cuatro">¿Le han encontrado alguna vez valores de glucemia altos?</string>
+    <string name="pregunta_cinco">¿Algún familiar está diagnosticado de diabetes (tipo I o tipo II)?</string>
+    <string name="error_successRegister">El registro fallo</string>
+    <string name="error_succesLogin">Error en la autenticación</string>
+    <string name="error_internet">No tiene conexion a internet</string>
+    <string name="error_invalid">Correo ya registrado</string>
+
+
+</resources>
